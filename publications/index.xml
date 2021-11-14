@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Qingle Guo</title>
+    <link>http://qingleguo.github.io/publications/</link>
+    <description>Recent content in Publications on Qingle Guo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="http://qingleguo.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conference</title>
+      <link>http://qingleguo.github.io/publications/blog1/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://qingleguo.github.io/publications/blog1/</guid>
+      <description>Fusion of Hyperspectral and Lidar Data Based On Dual-Branch Convolutional Neural Network
+Jinzhe Wang, Junping Zhang,Qingle Guo, Tong Li. 2019 IEEE International Geoscience and Remote Sensing Symposium, 2019
+PDF
+Change Detection for High Resolution Remote Sensing Image Based on Co-saliency Strategy
+Qingle Guo, Junping Zhang. 2019 10th International Workshop on the Analysis of Multitemporal Remote Sensing Images, 2019
+PDF
+Change Detection for Mutil-Temporal Remote Sensing Images Based on NSCT and Hierarchical Clustering</description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://qingleguo.github.io/publications/blog2/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://qingleguo.github.io/publications/blog2/</guid>
+      <description>Deep Multiscale Siamese Network with Parallel Convolutional Structure and Self-Attention for Change Detection
+Qingle Guo, Junping Zhang, Ye Zhang. IEEE Transactions on Geoscience and Remote Sensing, In press.(IF = 5.6 Top Journal)
+[MSPSNet](Public soon)
+Multiscale Semantic Guidance Network for Object Detection in VHR Remote Sensing Images
+Shengyu Zhu, Junping Zhang, Xuejian Liang, Qingle Guo. IEEE Geoscience and Remote Sensing Letters, Jun. 2021.(IF = 3.966)
+PDF
+Change Detection for Hyperspectral Images Via Convolutional Sparse Analysis and Temporal Spectral Unmixing</description>
+    </item>
+    
+  </channel>
+</rss>

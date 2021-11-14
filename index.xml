@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingle Guo</title>
+    <link>http://qingleguo.github.io/</link>
+    <description>Recent content on Qingle Guo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="http://qingleguo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conference</title>
+      <link>http://qingleguo.github.io/publications/blog1/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://qingleguo.github.io/publications/blog1/</guid>
+      <description>Fusion of Hyperspectral and Lidar Data Based On Dual-Branch Convolutional Neural Network
+Jinzhe Wang, Junping Zhang,Qingle Guo, Tong Li. 2019 IEEE International Geoscience and Remote Sensing Symposium, 2019
+PDF
+Change Detection for High Resolution Remote Sensing Image Based on Co-saliency Strategy
+Qingle Guo, Junping Zhang. 2019 10th International Workshop on the Analysis of Multitemporal Remote Sensing Images, 2019
+PDF
+Change Detection for Mutil-Temporal Remote Sensing Images Based on NSCT and Hierarchical Clustering</description>
+    </item>
+    
+    <item>
+      <title>Degree</title>
+      <link>http://qingleguo.github.io/blogs/ph.d-degree/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://qingleguo.github.io/blogs/ph.d-degree/</guid>
+      <description>2018-Now Ph.D in Information and Communication Engineering Harbin Institute of Technology Major in Multitemporal Image Processing, Machine learning, Deep Learning and Remote Sensing. Proficiency and understanding in
+ Image Processing algorithms Pattern recognition, Statistic learning and optimization methods C++, Python and Matlab Programming language Office, ENVI and Arcgis wroking software  2016-2018 M.S. in Information and Communication Engineering Harbin Institute of Technology Major in Change detection and Machine learning. Proficiency and understanding in</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://qingleguo.github.io/experience/blog1/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://qingleguo.github.io/experience/blog1/</guid>
+      <description>2012-Now Obtained scholarship many times
+ National Scholarship for Ph.D National Scholarship for M.S National People&amp;rsquo;s Scholarship for B.S  2016-Now Participant Many Scientific Researches including nations, company and regions.
+ Algorithm and model design Writing materials and documents Acceptance and defense Coordination and Cooperation  2019-2020 Served as the secretary of SPIE Harbin Chapter and Reviewer of IEEE
+ Organizing acitivities and communicating with other experts Reviewing the science papers Participanting and speeching in conference  2017-2019 Served as a Teaching Assistant for Signals and Systems</description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://qingleguo.github.io/publications/blog2/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://qingleguo.github.io/publications/blog2/</guid>
+      <description>Deep Multiscale Siamese Network with Parallel Convolutional Structure and Self-Attention for Change Detection
+Qingle Guo, Junping Zhang, Ye Zhang. IEEE Transactions on Geoscience and Remote Sensing, In press.(IF = 5.6 Top Journal)
+[MSPSNet](Public soon)
+Multiscale Semantic Guidance Network for Object Detection in VHR Remote Sensing Images
+Shengyu Zhu, Junping Zhang, Xuejian Liang, Qingle Guo. IEEE Geoscience and Remote Sensing Letters, Jun. 2021.(IF = 3.966)
+PDF
+Change Detection for Hyperspectral Images Via Convolutional Sparse Analysis and Temporal Spectral Unmixing</description>
+    </item>
+    
+  </channel>
+</rss>

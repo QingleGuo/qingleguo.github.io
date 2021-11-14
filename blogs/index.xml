@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Qingle Guo</title>
+    <link>http://qingleguo.github.io/blogs/</link>
+    <description>Recent content in Education on Qingle Guo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate><atom:link href="http://qingleguo.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Degree</title>
+      <link>http://qingleguo.github.io/blogs/ph.d-degree/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://qingleguo.github.io/blogs/ph.d-degree/</guid>
+      <description>2018-Now Ph.D in Information and Communication Engineering Harbin Institute of Technology Major in Multitemporal Image Processing, Machine learning, Deep Learning and Remote Sensing. Proficiency and understanding in
+ Image Processing algorithms Pattern recognition, Statistic learning and optimization methods C++, Python and Matlab Programming language Office, ENVI and Arcgis wroking software  2016-2018 M.S. in Information and Communication Engineering Harbin Institute of Technology Major in Change detection and Machine learning. Proficiency and understanding in</description>
+    </item>
+    
+  </channel>
+</rss>
